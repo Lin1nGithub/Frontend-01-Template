@@ -12,3 +12,14 @@
     3：24小时后重做 
     4：一周后重做 
     5：面试前（1~2week）复盘
+    
+    
+ #高效使用leetCode:
+ 1.中文网站看题目
+ 2.英文网站看思路
+ -->网址后面的链接是相同的,Discuss的mostVote高票回答，学习国外的思路。
+ 3.使用ieda/vscode的leetCode插件
+ 
+ #googleidea的topTips,加快自己的编码效率
+ 
+ 
